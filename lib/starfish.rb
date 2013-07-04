@@ -4,7 +4,7 @@ require 'rinda/ring'
 require 'rinda/tuplespace'
 require 'timeout'
 require 'logger'
-require 'md5'
+require 'digest/md5'
 require 'yaml'
 require 'tmpdir'
 
